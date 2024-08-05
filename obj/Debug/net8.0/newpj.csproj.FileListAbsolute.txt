@@ -1,0 +1,15 @@
+E:\newpj\bin\Debug\net8.0\newpj.exe
+E:\newpj\bin\Debug\net8.0\newpj.deps.json
+E:\newpj\bin\Debug\net8.0\newpj.runtimeconfig.json
+E:\newpj\bin\Debug\net8.0\newpj.dll
+E:\newpj\bin\Debug\net8.0\newpj.pdb
+E:\newpj\obj\Debug\net8.0\newpj.GeneratedMSBuildEditorConfig.editorconfig
+E:\newpj\obj\Debug\net8.0\newpj.AssemblyInfoInputs.cache
+E:\newpj\obj\Debug\net8.0\newpj.AssemblyInfo.cs
+E:\newpj\obj\Debug\net8.0\newpj.csproj.CoreCompileInputs.cache
+E:\newpj\obj\Debug\net8.0\newpj.sourcelink.json
+E:\newpj\obj\Debug\net8.0\newpj.dll
+E:\newpj\obj\Debug\net8.0\refint\newpj.dll
+E:\newpj\obj\Debug\net8.0\newpj.pdb
+E:\newpj\obj\Debug\net8.0\newpj.genruntimeconfig.cache
+E:\newpj\obj\Debug\net8.0\ref\newpj.dll
